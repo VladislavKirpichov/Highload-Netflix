@@ -1,9 +1,12 @@
 # Netflix
 
-1. <a href="#hello">Описание</a>
+### Содержание
+1. <a href="#description">Описание</a>
+2. <a href="#sources">Ссылки на ресурсы</a>
+
 
 ## 1. Описание
-Netflix стриминговый сервис для просмотра фильмов и сериалов с персональными рекомендациями для пользователей.
+<p id="description">Netflix стриминговый сервис для просмотра фильмов и сериалов с персональными рекомендациями для пользователей.</p>
 <img src="./include/us-market-share.webp"/>
 
 ### Целевая аудитория
@@ -50,7 +53,7 @@ Netflix стриминговый сервис для просмотра филь
 - Оценка фильма (лайк/дизлайк)
 
 ---
-<a href="https://appinventiv.com/blog/netflix-statistics-facts/">appinventiv</a>
+<a id="sources" href="https://appinventiv.com/blog/netflix-statistics-facts/">appinventiv</a>
 
 <a href="https://s22.q4cdn.com/959853165/files/doc_news/Netflix-Releases-Fourth-Quarter-2022-Financial-Results-2023.pdf">Netflix Q4 2022 Financial Results</a>
 
